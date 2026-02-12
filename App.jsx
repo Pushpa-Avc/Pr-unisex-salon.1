@@ -1,4 +1,4 @@
-import PRUnisexSalon from './components/PRUnisexSalon.jsx'
+import PRUnisexSalon from './PRUnisexSalon.jsx'
 
 function App() {
   return <PRUnisexSalon />
